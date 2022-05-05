@@ -1,0 +1,11 @@
+[
+{
+  "directory": "E:\\Tools\\GY8507-DLL-to-ZLG-DLL-2",
+  "arguments": ["D:\\OpenCLI\\Compilers\\i686-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++", "-c", "-m32", "-Isrc", "-o", "build\\.objs\\ControlCAN\\mingw\\i386\\debug\\src\\ControlCAN.cpp.obj", "src\\ControlCAN.cpp"],
+  "file": "src\\ControlCAN.cpp"
+},
+{
+  "directory": "E:\\Tools\\GY8507-DLL-to-ZLG-DLL-2",
+  "arguments": ["D:\\OpenCLI\\Compilers\\i686-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-gcc", "-c", "-m32", "-IGY8507_Warp", "-o", "build\\.objs\\GY8507_LIB_WARP\\mingw\\i386\\debug\\GY8507_Warp\\warp.c.obj", "GY8507_Warp\\warp.c"],
+  "file": "GY8507_Warp\\warp.c"
+}]

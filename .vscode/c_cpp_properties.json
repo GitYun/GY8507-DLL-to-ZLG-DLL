@@ -1,0 +1,518 @@
+{
+    "configurations": [
+        {
+            "name": "Win32-TDM64-GCC",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/OpenCLI/Compilers/TDM-GCC-64/x86_64-w64-mingw32/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:/OpenCLI/Compilers/TDM-GCC-64/bin/gcc.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "path": [
+                    "D:/OpenCLI/Compilers/TDM-GCC-64/x86_64-w64-mingw32/include"
+                ]
+            }
+        },
+        {
+            "name": "Win32-MinGW64-GCC",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/OpenCLI/Compilers/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/**",
+                "D:/OpenCLI/Compilers/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:/OpenCLI/Compilers/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "path": [
+                    "D:/OpenCLI/Compilers/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+                    "D:/OpenCLI/Compilers/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include"
+                ]
+            }
+        },
+        {
+            "name": "HomePC-Win32-MinGW64-GCC",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "F:/SoftWare/IDE/Complier/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/**",
+                "F:/SoftWare/IDE/Complier/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "F:/SoftWare/IDE/Complier/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "path": [
+                    "F:/SoftWare/IDE/Complier/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+                    "F:/SoftWare/IDE/Complier/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include"
+                ]
+            }
+        },
+        {
+            "name": "Linux-Wine-Win32-MinGW-GCC",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Softwares/mingw64/lib/gcc/x86_64-w64-mingw32/7.1.0/include/**",
+                "/Softwares/mingw64/x86_64-w64-mingw32/include/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64",
+            "browse": {
+                "path": [
+                "${workspaceFolder}/**",
+                "/Softwares/mingw64/lib/gcc/x86_64-w64-mingw32/7.1.0/include",
+                "/Softwares/mingw64/x86_64-w64-mingw32/include"
+                ]
+            }
+        },
+        {
+            "name": "Linux-GCC",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c99",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-gcc-x64",
+            "browse": {
+                "path": [
+                "${workspaceFolder}/**",
+                    "/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"
+                ]
+            }
+        },
+        {
+            "name": "Win32-FLTK1.3.6-TDM64-GCC",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/OpenCLI/Compilers/FLTK-1.3.6/include/**",
+                "D:/OpenCLI/Compilers/TDM-GCC-64/x86_64-w64-mingw32/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:/OpenCLI/Compilers/TDM-GCC-64/bin/gcc.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "D:/Downloads/FLTK/fltk-1.3.6rc2/src",
+                    "D:/OpenCLI/Compilers/FLTK-1.3.6/include",
+                    "D:/OpenCLI/Compilers/TDM-GCC-64/x86_64-w64-mingw32/include"
+                ]
+            }
+        },
+        {
+            "name": "Win32-FLTK1.3.6-Mingw64-posix-sjlj",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/OpenCLI/Compilers/FLTK-1.3.6-mingw64-posix-sjlj/include/**",
+                "D:/OpenCLI/Compilers/x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/**",
+                "D:/OpenCLI/Compilers/x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:/OpenCLI/Compilers/x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0/mingw64/bin/gcc.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "D:/OpenCLI/Compilers/FLTK-1.3.6/include",
+                    "D:/Downloads/FLTK/fltk-1.3.6rc2/src",
+                    "D:/Downloads/FLTK/fltk-1.3.6rc2/cairo",
+                    "D:/OpenCLI/Compilers/x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+                    "D:/OpenCLI/Compilers/x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include"
+                ]
+            }
+        },
+        {
+            "name": "Win32-FLTK1.3.6-Mingw64-posix-seh",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/OpenCLI/Compilers/FLTK-1.3.6/include/**",
+                "D:/OpenCLI/Compilers/Cairo-1.16.0/include/**",
+                "D:/OpenCLI/Compilers/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/**",
+                "D:/OpenCLI/Compilers/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:/OpenCLI/Compilers/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "D:/OpenCLI/Compilers/FLTK-1.3.6/include",
+                    "D:/OpenCLI/Compilers/Cairo-1.16.0/include",
+                    "E:/3rdPartyLibs/source_code/FLTK/fltk-1.3.6/src",
+                    "E:/3rdPartyLibs/source_code/FLTK/fltk-1.3.6/cairo",
+                    "E:/3rdPartyLibs/source_code/Cairo/cairo-1.16.0/src",
+                    "D:/OpenCLI/Compilers/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+                    "D:/OpenCLI/Compilers/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include"
+                ]
+            }
+        },
+        {
+            "name": "HomePC-Win32-FLTK1.3.6-Mingw64-posix-seh",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "F:/SoftWare/OSSW/FLTK-1.3.6-mingw64-seh/include/**",
+                "F:/SoftWare/OSSW/Cairo-1.16.0/include/**",
+                "F:/SoftWare/OSSW/FLTK-1.3.6-mingw64-seh/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/**",
+                "F:/SoftWare/OSSW/FLTK-1.3.6-mingw64-seh/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "F:/SoftWare/OSSW/FLTK-1.3.6-mingw64-seh/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "F:/SoftWare/OSSW/FLTK-1.3.6-mingw64-seh/include",
+                    "F:/SoftWare/OSSW/Cairo-1.16.0/include",
+                    "D:/3rdPartyLibs/source_code/fltk-1.3.6/src",
+                    "D:/3rdPartyLibs/source_code/FLTK/fltk-1.3.6/cairo",
+                    "D:/3rdPartyLibs/source_code/Cairo/cairo-1.16.0/src",
+                    "F:/SoftWare/OSSW/FLTK-1.3.6-mingw64-seh/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+                    "F:/SoftWare/OSSW/FLTK-1.3.6-mingw64-seh/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include"
+                ]
+            }
+        },
+        {
+            "name": "Linux-FLTK1.4.x",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include/**",
+                "/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include/**",
+                "/usr/local/bin/FLTK-1.4.x/include/**",
+                "/Softwares/FLTK-1.4.x/include/**",
+                "/usr/include/cairo/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-gcc-x64",
+            "browse": {
+                "path": [
+                "${workspaceFolder}",
+                "/usr/local/include",
+                "/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include",
+                "/usr/local/bin/FLTK-1.4.x/include",
+                "/Softwares/FLTK-1.4.x",
+                "/usr/include/cairo"
+                ]
+                }
+        },
+        {
+            "name": "gcc-arm-none-eabi",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/OpenCLI/Compilers/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "LPC1XXX",
+                "FLASH_32",
+                "ARM_MATH_CM0"
+            ],
+            "compilerPath": "D:/OpenCLI/Compilers/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe",
+            "cStandard": "c99",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "windows-gcc-arm",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "D:/OpenCLI/Compilers/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include"
+                ]
+            }
+        },
+        {
+            "name": "Win32-STM32F1xx",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/IDE/ST/STM32CubeIDE_1.5.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/arm-none-eabi/include/**",
+                "D:/IDE/ST/Repository/STM32Cube_FW_F1_V1.8.4/Drivers/CMSIS/Include/**",
+                "D:/IDE/ST/Repository/STM32Cube_FW_F1_V1.8.4/Drivers/CMSIS/DSP/Include/**",
+                "D:/IDE/ST/Repository/STM32Cube_FW_F1_V1.8.4/Utilities/Fonts/**",
+                "D:/IDE/ST/Repository/STM32Cube_FW_F1_V1.8.4/Drivers/CMSIS/Device/ST/STM32F1xx/Include/**",
+                "D:/IDE/ST/Repository/STM32Cube_FW_F1_V1.8.4/Drivers/STM32F1xx_HAL_Driver/Inc/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "STM32F407xx",
+                "USE_FULL_LL_DRIVER"
+            ],
+            "compilerPath": "D:/IDE/ST/STM32CubeIDE_1.5.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/arm-none-eabi-gcc.exe",
+            "cStandard": "c99",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "gcc-arm",
+            "browse": {
+                "path": [
+                    "D:/IDE/ST/STM32CubeIDE_1.5.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/arm-none-eabi/include",
+                    "D:/IDE/ST/Repository/STM32Cube_FW_F1_V1.8.4/Drivers/CMSIS/Include",
+                    "D:/IDE/ST/Repository/STM32Cube_FW_F1_V1.8.4/Drivers/CMSIS/DSP/Include",
+                    "D:/IDE/ST/Repository/STM32Cube_FW_F1_V1.8.4/Utilities/Fonts",
+                    "D:/IDE/ST/Repository/STM32Cube_FW_F1_V1.8.4/Drivers/CMSIS/Device/ST/STM32F1xx/Include",
+                    "D:/IDE/ST/Repository/STM32Cube_FW_F1_V1.8.4/Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/*",
+                    "D:/IDE/ST/Repository/STM32Cube_FW_F1_V1.8.4/Drivers/STM32F1xx_HAL_Driver"
+                ]
+            }
+        },
+        {
+            "name": "Win32-STM32F4xx",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/IDE/ST/STM32CubeIDE_1.5.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/arm-none-eabi/include/**",
+                "D:/IDE/ST/Repository/STM32Cube_FW_F4_V1.25.2/Drivers/CMSIS/Include/**",
+                "D:/IDE/ST/Repository/STM32Cube_FW_F4_V1.25.2/Drivers/CMSIS/DSP/Include/**",
+                "D:/IDE/ST/Repository/STM32Cube_FW_F4_V1.25.2/Utilities/Fonts/**",
+                "D:/IDE/ST/Repository/STM32Cube_FW_F4_V1.25.2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/**",
+                "D:/IDE/ST/Repository/STM32Cube_FW_F4_V1.25.2/Drivers/STM32F4xx_HAL_Driver/Inc/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "STM32F407xx",
+                "USE_FULL_LL_DRIVER"
+            ],
+            "compilerPath": "D:/IDE/ST/STM32CubeIDE_1.5.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/arm-none-eabi-gcc.exe",
+            "cStandard": "c99",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "gcc-arm",
+            "browse": {
+                "path": [
+                    "D:/IDE/ST/STM32CubeIDE_1.5.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/arm-none-eabi/include",
+                    "D:/IDE/ST/Repository/STM32Cube_FW_F4_V1.25.2/Drivers/CMSIS/Include",
+                    "D:/IDE/ST/Repository/STM32Cube_FW_F4_V1.25.2/Drivers/CMSIS/DSP/Include",
+                    "D:/IDE/ST/Repository/STM32Cube_FW_F4_V1.25.2/Utilities/Fonts",
+                    "D:/IDE/ST/Repository/STM32Cube_FW_F4_V1.25.2/Drivers/CMSIS/Device/ST/STM32F4xx/Include",
+                    "D:/IDE/ST/Repository/STM32Cube_FW_F4_V1.25.2/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/*",
+                    "D:/IDE/ST/Repository/STM32Cube_FW_F4_V1.25.2/Drivers/STM32F4xx_HAL_Driver"
+                ]
+            }
+        },
+        {
+            "name": "Linux-STM32F4xx",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.linux64_1.5.0.202011040924/tools/arm-none-eabi/include/**",
+                "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F4_V1.26.0/Drivers/CMSIS/Include/**",
+                "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F4_V1.26.0/Drivers/CMSIS/DSP/Include/**",
+                "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F4_V1.26.0/Utilities/Fonts/**",
+                "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F4_V1.26.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include/**",
+                "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F4_V1.26.0/Drivers/STM32F4xx_HAL_Driver/Inc/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "STM32F407xx",
+                "USE_FULL_LL_DRIVER"
+            ],
+            "compilerPath": "/opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.linux64_1.5.0.202011040924/tools/bin/arm-none-eabi-gcc",
+            "cStandard": "c99",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-gcc-arm",
+            "browse": {
+                "path": [
+                "${workspaceFolder}/**",
+                    "/opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.linux64_1.5.0.202011040924/tools/arm-none-eabi/include",
+                    "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F4_V1.26.0/Drivers/CMSIS/Include",
+                    "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F4_V1.26.0/Drivers/CMSIS/DSP/Include",
+                    "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F4_V1.26.0/Utilities/Fonts",
+                    "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F4_V1.26.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include",
+                    "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F4_V1.26.0/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/*",
+                    "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F4_V1.26.0/Drivers/STM32F4xx_HAL_Driver"
+                ]
+            }
+        },
+        {
+            "name": "Linux-STM32F1xx",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.linux64_1.5.0.202011040924/tools/arm-none-eabi/include/**",
+                "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/Include/**",
+                "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/DSP/Include/**",
+                "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F1_V1.8.3/Utilities/Fonts/**",
+                "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/Device/ST/STM32F4xx/Include/**",
+                "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/STM32F4xx_HAL_Driver/Inc/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "STM32F407xx",
+                "USE_FULL_LL_DRIVER"
+            ],
+            "compilerPath": "/opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.linux64_1.5.0.202011040924/tools/bin/arm-none-eabi-gcc",
+            "cStandard": "c99",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-gcc-arm",
+            "browse": {
+                "path": [
+                    "/opt/st/stm32cubeide_1.6.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.linux64_1.5.0.202011040924/tools/arm-none-eabi/include",
+                    "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/Include",
+                    "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/DSP/Include",
+                    "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F1_V1.8.3/Utilities/Fonts",
+                    "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/Device/ST/STM32F4xx/Include",
+                    "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/*",
+                    "/Works/STM32CubeIDE/Repository/STM32Cube_FW_F1_V1.8.3/Drivers/STM32F4xx_HAL_Driver"
+                ]
+            }
+        },
+        {
+            "name": "TMS320C6745",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/IDE/ti/ccs1100/ccs/tools/compiler/ti-cgt-c6000_8.3.11/include/**",
+                "D:/IDE/ti/ccs1100/ccs/tools/compiler/ti-cgt-c6000_8.3.11/include/sys/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "c6745",
+                "far=",
+                "__TI_EABI__",
+                "_TMS320C6X"
+            ],
+            "compilerPath": "D:/IDE/ti/ccs1100/ccs/tools/compiler/ti-cgt-c6000_8.3.11/bin/cl6x.exe",
+            "cStandard": "c99",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-clang-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "D:/IDE/ti/ccs1100/ccs/tools/compiler/ti-cgt-c6000_8.3.11/lib/src"
+                ]
+            },
+            "forcedInclude": [
+                "D:/IDE/ti/ccs1100/ccs/tools/compiler/ti-cgt-c6000_8.3.11/include/sys/stdint.h",
+                "D:/IDE/ti/ccs1100/ccs/tools/compiler/ti-cgt-c6000_8.3.11/include/stdbool.h"
+            ]
+        },
+        {
+            "name": "DSP/BIOS",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/IDE/ti/ccs1100/ccs/tools/compiler/ti-cgt-c6000_8.3.11/include/**",
+                "D:/IDE/ti/compiler/ti-cgt-c6000_7.3.23/include/**",
+                "D:/IDE/ti/bios_5_42_02_10/packages/ti/bios/include",
+                "D:/IDE/ti/bios_5_42_02_10/packages/ti/rtdx/include/c6000"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "c6745",
+                "far=",
+                "_TMS320C6X"
+            ],
+            "compilerPath": "D:/IDE/ti/compiler/ti-cgt-c6000_7.3.23/bin/cl6x.exe",
+            "cStandard": "c99",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-clang-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "D:/IDE/ti/compiler/ti-cgt-c6000_7.3.23/lib/src",
+                    "D:/IDE/ti/bios_5_42_02_10/packages/ti/bios/src"
+                ]
+            },
+            "forcedInclude": [
+                "D:/IDE/ti/compiler/ti-cgt-c6000_7.3.23/include/stdint.h",
+                "D:/IDE/ti/compiler/ti-cgt-c6000_7.3.23/include/stdbool.h",
+                "D:/IDE/ti/bios_5_42_02_10/packages/ti/bios/include/tistdtypes.h"
+            ]
+        },
+        {
+            "name": "Linux-DSP/BIOS",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Softwares/EDAs/ti/ccsv5/tools/compiler/c6000_7.4.4/include/**",
+                "/Softwares/EDAs/ti/bios_5_42_01_09/packages/ti/rtdx/include",
+                "/Softwares/EDAs/ti/bios_5_42_01_09/packages/ti/rtdx/include/c6000"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "c6745",
+                "far=",
+                "_TMS320C6X"
+            ],
+            "compilerPath": "/Softwares/EDAs/ti/ccsv5/tools/compiler/c6000_7.4.4/bin/cl6x",
+            "cStandard": "c99",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-clang-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "/Softwares/EDAs/ti/bios_5_42_01_09/packages/ti/bios/src"
+                ]
+            },
+            "forcedInclude": [
+                "/Softwares/EDAs/ti/ccsv5/tools/compiler/c6000_7.4.4/include/stdint.h",
+                "/Softwares/EDAs/ti/ccsv5/tools/compiler/c6000_7.4.4/include/stdbool.h",
+                "/Softwares/EDAs/ti/bios_5_42_01_09/packages/ti/bios/include/tistdtypes.h"
+            ]
+        }
+    ],
+    "version": 4
+}
